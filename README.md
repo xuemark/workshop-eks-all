@@ -16,6 +16,9 @@
 
 ## 6. [AWS load balancer controller](6.create-aws-load-balancer-controller.md)
 
+## 6.2. [AWS load balancer controller - China Mark](6.2.create-aws-load-balancer-controller-china-mark.md)
+
+
 ## 7. [Prometheus and Grafana Monitoring EKS](7.monitor-eks-with-prometheus-grafana.md)
 
 ## 8. [Create service account for pod](8.create-service-account-for-pod.md)
